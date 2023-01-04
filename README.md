@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Piacular
-- 👀 I’m interested in VR Development and Game Development. 
-- 🌱 I’m currently learning to use the Unity IDE.
-- 📫 @onebadrabbitmusic on Instagram
+- 👀 I’m interested Game Development. 
+- 🌱 I’m currently learning VR development.
+- 📫 [crabrabbit.itch.io](https://crabrabbit.itch.io/)
