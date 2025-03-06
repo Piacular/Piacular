@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Scott!
 - 👀 I’m interested Game and Software Development. 
-- 🌱 I’m currently working in VR and expanding my Unity chops.
+- 🌱 I’m a dad, professional software engineer, musician, and a hobbyist game developer.
 - 📫 Check out some of my published works here: [crabrabbit.itch.io](https://crabrabbit.itch.io/)
